@@ -1,0 +1,38 @@
+* {
+	background-color: #002b36;
+	color: #fdf6e3;
+	font-family: monospace;
+}
+
+pre {
+	color: #cb4b16;
+	text-align: center;
+}
+
+br {
+	margin-bottom: 10px;
+}
+
+h1 {
+	color: #d33682;
+}
+
+h2 {
+	color: #859900;
+}
+
+a:link {
+  color: #b58900;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #dc322f;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #dc322f;
+  background-color: transparent;
+  text-decoration: none;
+}
